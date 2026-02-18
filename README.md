@@ -1,5 +1,3 @@
-# Matthias Jensen
-
 💻 Full-Stack Developer  
 
 🚀 Currently building at **brandmandsspørgsmål.dk**  
