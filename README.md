@@ -1,5 +1,6 @@
+# Matthias Jensen
 
-Full-Stack Developer  
+💻 Full-Stack Developer  
 
-Currently working at **brandmandsspørgsmål.dk**  
-Previously co-founded **QR Development** (FiveM open-source scripts)
+🚀 Currently building at **brandmandsspørgsmål.dk**  
+🛠️ Previously co-founded **QR Development** (FiveM open-source scripts)
